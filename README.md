@@ -96,23 +96,16 @@ together to build a defensible conclusion.
 
 ## Screenshots
 
-**1. Selecting the relevant process in ProcDOT**
-![Process selection in ProcDOT](images/01-procdot-process-select.png)
+![screenshot1](https://github.com/aBdUl-AhaD02/Ransomware-Incident-Investigation/blob/main/Images/Screenshot%2001.png)
 
-**2. Process and network activity timeline**
-![ProcDOT activity timeline](images/02-procdot-timeline.png)
+![screenshot2](https://github.com/aBdUl-AhaD02/Ransomware-Incident-Investigation/blob/main/Images/Screenshot%2002.png)
 
-**3. Full network connection graph**
-![ProcDOT network connection graph](images/03-procdot-network-graph.png)
+![screenshot3](https://github.com/aBdUl-AhaD02/Ransomware-Incident-Investigation/blob/main/Images/Screenshot%2003.png)
 
-**4. Malicious explorer.exe process details**
-![Malicious process details](images/04-procdot-process-details.png)
+![screenshot4](https://github.com/aBdUl-AhaD02/Ransomware-Incident-Investigation/blob/main/Images/Screenshot%2004.png)
 
-**5. Network traffic capture in Wireshark**
-![Traffic capture in Wireshark](images/05-wireshark-traffic.png)
+![screenshot5](https://github.com/aBdUl-AhaD02/Ransomware-Incident-Investigation/blob/main/Images/Screenshot%2005.png)
 
-**6. TCP stream showing C2 redirect**
-![TCP stream C2 redirect](images/06-tcp-stream-redirect.png)
+![screenshot6](https://github.com/aBdUl-AhaD02/Ransomware-Incident-Investigation/blob/main/Images/Screenshot%2006.png)
 
-**7. AlienVault OTX threat intelligence lookup**
-![AlienVault OTX BlackMatter confirmation](images/07-otx-blackmatter.png)
+![screenshot7](https://github.com/aBdUl-AhaD02/Ransomware-Incident-Investigation/blob/main/Images/Screenshot%2007.png)
